@@ -1,9 +1,4 @@
-/*
- * BIT_Math.h
- *
- *  Created on: Sep 10, 2022
- *      Author: Mostafa Sayed
- */
+
 
 #ifndef BIT_MATH_H_
 #define BIT_MATH_H_
